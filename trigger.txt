@@ -1,1 +1,1 @@
-grafana/grafana:9.5.1 registry.cn-beijing.aliyuncs.com/cxs/grafana/grafana:9.5.1
+grafana/grafana:9.5.1 registry.cn-beijing.aliyuncs.com/my_docker_2021/grafana/grafana:9.5.1
